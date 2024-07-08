@@ -30,7 +30,7 @@ Welcome to the **Homemade Food Marketplace**! This platform connects home cooks 
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/HomemadeFoodMarketplace.git
+   git clone https://github.com/Vinaykumarmahato/HomemadeFoodMarketplace.git
    cd HomemadeFoodMarketplace
 ### Backend Setup
 Navigate to the backend directory:
